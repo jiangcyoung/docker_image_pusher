@@ -1,1 +1,1 @@
-gcr.io/kubeflow-ci/pytorch-dist-mnist_test:1.0
+kubeflowkatib/pytorch-mnist:v1beta1-45c5727
